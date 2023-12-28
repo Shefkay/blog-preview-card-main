@@ -103,8 +103,9 @@ body{
   margin-right: 12px;
 }
 
-.profiles h5{
+.profiles p{
   font-size: 12px;
+  font-weight: 800;
   color: var(--Black);
 }
 
